@@ -19,7 +19,7 @@ Perintah dasar git :
 - git pull : untuk mengambil commit dari server jika ada perubahan di server yang dibuat oleh branch lain
 - git log : untuk melihat riwayat commit
 
-#Branch
+# Branch
 adalah cabang dari sebuah repository digunakan untuk pararel perubahan
 perintah yang sering digunakan :
 - git branch: melihat semua branch (local)
@@ -31,6 +31,12 @@ perintah yang sering digunakan :
 
 *Conflict : kondisi yang terjadi ketika merging 2 branch yang memiliki perubahan pada file yang sama, jika conflict tidak 
             bisa melakukan commit, conflict harus diselesaikan terlebih dahulu
+
+# GUI - Sourcetree
+Software berbasis GUI untuk memudahkan dalam mengoperasikan git, terutama saat terjadi conflict.
+
+Dengan Sourcetree, pengguna dapat melakukan berbagai tugas seperti mengelola cabang, menggabungkan perubahan, 
+meninjau riwayat commit, dan berkolaborasi dengan rekan tim dalam proyek
 
 
 
