@@ -1,0 +1,10 @@
+TUGAS GIT - Merangkum Materi GIT
+
+#1 INTRO GIT
+GIT adalah salah satu version control system yang berfungsi untuk mencatat 
+setiap perubahan file di sourcode kita serta berfungsi untuk berkolaborasi.
+
+Macam-macam GIT : Github, Gitlab dan Bitbucket
+
+
+
